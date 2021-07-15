@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I’m currently working on ***[MERN Projects](https://coders-book-shop.web.app/)*** -->
 
-- 🌱 I’m currently learning ***Manual & Automation Software Testing.***
+- 🌱 I’m currently learning: ***Manual & Automation Software Testing.***
 
 - 💬 Ask me about ***Selenium, BDD in Python, PyTest, UnitTest, Page Object Model, Manual Testing.***
 
@@ -16,7 +16,7 @@
 
 - 📫 To reach me: ***maksudpranto@gmail.com***
 
-- ⚡ Fun fact ***Love to Travel and Capture Photos***
+- ⚡ Fun fact: ***Love to Travel and Capture Photos***
 
 ## Languages and Tools:
 
