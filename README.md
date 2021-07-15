@@ -23,6 +23,10 @@
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/selenium-test-automation.png"/> </a>
+    <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/sql.png"/> </a>
+    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
+    
+
 
 </p>
 
@@ -33,6 +37,7 @@
 
 <a href = "https://www.facebook.com/pranto005/"><img src="https://img.icons8.com/fluent/50/000000/facebook-new.png"/></a>
 <a href = "https://www.linkedin.com/in/mhpranto//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/pranto.myself/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 
