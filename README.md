@@ -1,6 +1,6 @@
 
 
-<table>
+
   <tr>
     <td><img src="https://media.tenor.com/images/6a8af21b1c26b8b11647d857985dd5ce/tenor.gif"></td>
     <td>
@@ -26,4 +26,3 @@
 <br/>
     </td>
   </tr>
-</table>
