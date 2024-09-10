@@ -5,7 +5,7 @@
       <ul>
         <li>Hey there, This is <strong>Md Maksud Hossain (Pranto)</strong></li>
         <li>Completed My B.Sc in Computer Science & Engineering from <strong>East West University.</strong></li>
-        <li>Currently Learning <b>Automation Testing</b> and Looking for a job related to SQA.</li>
+        <li>Works as an SQA Engineer of Grameenphone MyGP App.</li>
         <li>To reach me: <i>maksudpranto@gmail.com<i/></li>
 <!--         <li>Show My Resume Here: <a href = "https://maksudpranto.github.io/maksud_pranto/"</a> Maksud's Resume</li> -->
       </ul>
