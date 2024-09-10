@@ -7,7 +7,7 @@
         <li>Completed My B.Sc in Computer Science & Engineering from <strong>East West University.</strong></li>
         <li>Currently Learning <b>Automation Testing</b> and Looking for a job related to SQA.</li>
         <li>To reach me: <i>maksudpranto@gmail.com<i/></li>
-        <li>Show My Resume Here: <a href = "https://maksudpranto.github.io/maksud_pranto/"</a> Maksud's Resume</li>
+<!--         <li>Show My Resume Here: <a href = "https://maksudpranto.github.io/maksud_pranto/"</a> Maksud's Resume</li> -->
       </ul>
       <h4>Connect with me:</h4>
       <a href = "https://www.linkedin.com/in/mhpranto//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
